@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel target="1.7">
+      <module name="KitsuGit.app" target="17" />
+      <module name="KitsuGit.buildSrc" target="17" />
+      <module name="KitsuGit.buildSrc.main" target="17" />
+      <module name="KitsuGit.buildSrc.test" target="17" />
+      <module name="KitsuGit.data" target="17" />
+      <module name="KitsuGit.presentation" target="17" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
